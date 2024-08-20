@@ -1,3 +1,4 @@
+
 # WebDevelopment
 
 …or create a new repository on the command line
@@ -15,3 +16,9 @@ git push -u origin main
 git remote add origin https://github.com/xyloxe/WebDevelopment.git
 git branch -M main
 git push -u origin main
+
+
+# Java
+
+
+soon basic java codes coming...
