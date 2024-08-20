@@ -1,0 +1,8 @@
+function overloaing:
+
+==> multiple function with same name but different parameters
+==> they doesnt depend on return types
+
+
+1) using parameters
+2) using dataTypes

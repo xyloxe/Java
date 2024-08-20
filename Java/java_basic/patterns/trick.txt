@@ -1,0 +1,5 @@
+=> try to find the basic patterns in them.
+=> the outer loop consist number of rows to be printed.
+=> in many patterns they usually follow (row- i) patters, thats used for spaces though,
+
+you gotta build logic by solving qs, its just basic thing, not some trick;  heh

@@ -1,0 +1,32 @@
+=> array:-
+~ list of elements of same type , placed in a contiguous memory location.
+
+
+=> operations in arrays:
+~create
+~input
+~output
+~update
+
+=> linear search:
+~ used to find the INDEX of element in a given array.
+
+=> to use infinity in java | they are found in java utility package, but might work without it ig
+~Integer.MIN_VALUE = -infinity (min value in integer)
+~Integer.MAX_VALUE = +infinity (max value in integer)
+
+=> pairs in array:
+~ total pairs : n *(n-1) / 2
+
+=> subarray:
+~ a continuous part of array
+~ subarray exists in array: n * (n+1)/2
+
+=> kadane's algorithm is used for maxsum in subarray and it's an optmised way for it. 
+~ Time complexity : O(n)
+~ it works like this: makes negative number to 0; 
+  only if  negative number is greater than current sum(which is initialized at 0)
+~ if number is smaller, it will subtract it || works on single iteration
+
+=>
+~

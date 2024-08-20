@@ -1,0 +1,8 @@
+// compiler : it read code line by line...
+so, sout cam only print it, if it has been declared before.
+
+scope:-->
+In a function a variable can be accesed anywhere only inside the function;
+but not in another function (including main)
+
+method scope: once a variable has been declared inside a function it can be accesed anywhere inside the same function.

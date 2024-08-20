@@ -1,0 +1,19 @@
+blockScope : 
+
+// variable etc which is written in inside "{}" cant be accesed outside it.
+//ex: like in for loop; int i (temp var) cant be accesed outside the for loop, as it is written inside
+the blocl scope.
+
+
+
+{
+int i = 0
+
+}
+psvm{
+    sout(i) // IT WILL THROW ERROR
+}
+
+// CLASS scope also exists...
+
+access modifiers: public, private, protected
